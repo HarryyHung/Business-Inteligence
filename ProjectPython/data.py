@@ -60,7 +60,7 @@ for row in reader:
     # Convert the above rows from string to int
     row[8] = int(float(row[8])) # row "seasons"
     row[9] = int(float(row[9])) # row "imdb_score"
-    row[10] = int(float(row[10])) # row "imdb_votes"
+    row[10] = int(row[10]) # row "imdb_votes"
 
     # Remove "['']" and "\'" use strip() and replace()
     genres = row[6].strip("['']").replace("\'", '')
