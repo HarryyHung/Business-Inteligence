@@ -927,7 +927,7 @@
 925,Her,MOVIE,2013,17+,126,"drama, romance, scifi",The United States,0,8,586679,3
 926,42,MOVIE,2013,13+,128,"drama, sport",The United States,0,7,93314,2
 927,The imitation game,MOVIE,2014,13+,113,"thriller, drama, war","The United States, The United Kingdom",0,8,748654,3
-928,The call (2013),MOVIE,2013,17+,94,"crime, thriller, drama, horror, european",The United States,0,6,120475,5
+928,The call,MOVIE,2013,17+,94,"crime, thriller, drama, horror, european",The United States,0,6,120475,5
 929,The 100,SHOW,2014,14+,42,"drama, action, scifi",The United States,7,7,242221,3
 930,Big eyes,MOVIE,2014,13+,106,"drama, documentation, crime, romance","Canada, The United States",0,7,51,4
 931,How to get away with murder,SHOW,2014,14+,43,"drama, thriller, crime",The United States,6,8,146712,3
@@ -1151,7 +1151,7 @@
 1149,The war against women,MOVIE,2013,0,62,"documentation, war","The United States, Spain",0,7,74,2
 1150,Ghadi,MOVIE,2013,13+,100,"drama, comedy, family",Lebanon,0,7,1128,3
 1151,Eyes of a thief,MOVIE,2014,0,98,drama,Palestine,0,6,443,1
-1152,1-Oct,MOVIE,2014,13+,149,thriller,Nigeria,0,6,424,1
+1152,1-oct,MOVIE,2014,13+,149,thriller,Nigeria,0,6,424,1
 1153,Mars at sunrise,MOVIE,2014,0,75,drama,The United States,0,7,43,1
 1154,Satyagraha,MOVIE,2013,18+,152,"drama, documentation",India,0,5,5127,2
 1155,Bhaji in problem,MOVIE,2013,0,130,"romance, comedy",India,0,7,1007,2
@@ -2037,7 +2037,7 @@
 2035,Salt fat acid heat,SHOW,2018,0,40,documentation,The United States,1,7,2419,1
 2036,Great news,SHOW,2017,18+,21,comedy,The United States,2,7,6810,1
 2037,Dark tourist,SHOW,2018,18+,41,"action, documentation",New Zealand,1,7,7158,2
-2038,22-Jul,MOVIE,2018,17+,143,"thriller, history, crime, drama, european","Na Uy, The United States, Iceland",0,6,33246,5
+2038,22-jul,MOVIE,2018,17+,143,"thriller, history, crime, drama, european","Na Uy, The United States, Iceland",0,6,33246,5
 2039,Abstract: the art of design,SHOW,2017,14+,45,documentation,The United States,2,8,5306,1
 2040,Victoria & abdul,MOVIE,2017,13+,112,"drama, history","The United Kingdom, The United States",0,6,35458,2
 2041,Bakugan: battle planet,SHOW,2018,7+,20,"scifi, animation, action, comedy, family, fantasy",Japan,4,5,220,6
@@ -3232,7 +3232,7 @@
 3230,Eurovision song contest: the story of fire saga,MOVIE,2020,13+,123,"comedy, music",The United States,0,6,91043,2
 3231,The cursed,SHOW,2020,18+,62,"scifi, drama, fantasy, thriller",Korea,1,7,395,4
 3232,Get organized with the home edit,SHOW,2020,18+,42,reality,The United States,2,5,1454,1
-3233,The call (2020),MOVIE,2020,0,112,"thriller, scifi, drama, crime, horror",Korea,0,7,29450,5
+3233,The call,MOVIE,2020,0,112,"thriller, scifi, drama, crime, horror",Korea,0,7,29450,5
 3234,Sweet magnolias,SHOW,2020,14+,50,"drama, romance",The United States,2,7,17435,2
 3235,In the shadow of the moon,MOVIE,2019,17+,115,"thriller, crime, scifi","The United States, Canada",0,6,49894,3
 3236,Alice in borderland,SHOW,2020,18+,47,"action, drama, scifi, thriller, fantasy",Japan,2,7,47651,5
@@ -3398,7 +3398,7 @@
 3396,Dare me,SHOW,2019,18+,43,"thriller, crime, reality",The United States,1,6,5098,3
 3397,Atlantics,MOVIE,2019,13+,106,"fantasy, drama, romance","SN, Belgium, France",0,6,9306,3
 3398,Last breath,MOVIE,2019,0,85,"documentation, european","Belgium, Sweden, The United Kingdom",0,7,5447,2
-3399,The gift ,SHOW,2019,18+,45,"scifi, drama, fantasy",Turkey,3,7,21582,3
+3399,The gift,SHOW,2019,18+,45,"scifi, drama, fantasy",Turkey,3,7,21582,3
 3400,The boy who harnessed the wind,MOVIE,2019,0,113,"drama, history","Malawi, The United Kingdom, The United States",0,7,36805,2
 3401,We have always lived in the castle,MOVIE,2019,0,90,"thriller, drama",The United States,0,5,7063,2
 3402,Spenser confidential,MOVIE,2020,17+,111,"thriller, comedy, crime, action, drama",The United States,0,6,85270,5
@@ -4647,7 +4647,7 @@
 4645,The charming stepmom,SHOW,2019,14+,56,"family, comedy, romance",Thailand,1,7,17,3
 4646,Mallesham,MOVIE,2019,0,131,drama,India,0,8,1036,1
 4647,Deon cole: cole hearted,MOVIE,2019,0,69,comedy,The United States,0,6,883,1
-4648,15-Aug,MOVIE,2019,0,124,"romance, comedy, drama",India,0,5,273,3
+4648,15-aug,MOVIE,2019,0,124,"romance, comedy, drama",India,0,5,273,3
 4649,Sab el-burumbah,MOVIE,2019,0,95,comedy,Egypt,0,5,483,1
 4650,Mehandi circus,MOVIE,2019,0,135,drama,India,0,7,543,1
 4651,David batra: elephant in the room,MOVIE,2020,0,77,comedy,Sweden,0,5,196,1
@@ -5714,7 +5714,7 @@
 5712,Buried by the bernards,SHOW,2021,14+,0,reality,The United States,1,7,339,1
 5713,Angèle,MOVIE,2021,17+,84,"music, documentation","France, Belgium",0,7,493,2
 5714,A perfect fit,MOVIE,2021,0,112,"drama, comedy, romance",Indonesia,0,5,557,3
-5715,30-Mar,MOVIE,2021,0,99,"drama, thriller, crime",,0,4,96,3
+5715,30-mar,MOVIE,2021,0,99,"drama, thriller, crime",,0,4,96,3
 5716,Brave animated series,SHOW,2021,18+,26,"action, animation",Taiwan,1,0,0,2
 5717,A storybots space adventure,MOVIE,2021,0,12,animation,,0,0,0,1
 5718,Super monsters: once upon a rhyme,MOVIE,2021,0,25,"family, animation",,0,5,38,2

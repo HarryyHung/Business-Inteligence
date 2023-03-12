@@ -75,7 +75,7 @@ for row in reader:
     # Use for each to iterate over each item in "row" where "index" is the index and "value" is the value of each item. 
     # And the enumerate() function is used to add a counter for the index to the list
     for index, value in enumerate(row):
-        # print(f'{index}: {value}')
+        print(f'{index}: {value}')
         # Check if the value is in the pre-initialized age dictionary
         if value in age_dict:
             # Replace any age value found in "row" with the value in "age_dict"
